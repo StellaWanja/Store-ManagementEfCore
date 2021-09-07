@@ -1,0 +1,182 @@
+[
+  {
+    "Id": "33-369-7843",
+    "StoreId": "101",
+    "ProductName": "Lemonade",
+    "Price": 232
+  },
+  {
+    "Id": "99-869-3015",
+    "StoreId": "101",
+    "ProductName": "Puree",
+    "Price": 301
+  },
+  {
+    "Id": "19-602-5901",
+    "StoreId": "101",
+    "ProductName": "Soda",
+    "Price": 637
+  },
+  {
+    "Id": "59-293-1020",
+    "StoreId": "102",
+    "ProductName": "Salt",
+    "Price": 721
+  },
+  {
+    "Id": "00-386-2751",
+    "StoreId": "102",
+    "ProductName": "Cheese",
+    "Price": 581
+  },
+  {
+    "Id": "73-418-0502",
+    "StoreId": "102",
+    "ProductName": "Pasta",
+    "Price": 838
+  },
+  {
+    "Id": "22-048-2517",
+    "StoreId": "103",
+    "ProductName": "Wine",
+    "Price": 710
+  },
+  {
+    "Id": "79-592-2292",
+    "StoreId": "103",
+    "ProductName": "Basil",
+    "Price": 987
+  },
+  {
+    "Id": "99-896-4803",
+    "StoreId": "103",
+    "ProductName": "Cups",
+    "Price": 200
+  },
+  {
+    "Id": "85-299-2700",
+    "StoreId": "104",
+    "ProductName": "Tray",
+    "Price": 448
+  },
+  {
+    "Id": "01-203-2694",
+    "StoreId": "104",
+    "ProductName": "Flour",
+    "Price": 222
+  },
+  {
+    "Id": "47-545-1360",
+    "StoreId": "104",
+    "ProductName": "Shrimp",
+    "Price": 797
+  },
+  {
+    "Id": "55-143-3103",
+    "StoreId": "105",
+    "ProductName": "Peach",
+    "Price": 539
+  },
+  {
+    "Id": "95-831-9365",
+    "StoreId": "105",
+    "ProductName": "Fish",
+    "Price": 192
+  },
+  {
+    "Id": "99-110-3531",
+    "StoreId": "105",
+    "ProductName": "Bagel",
+    "Price": 340
+  },
+  {
+    "Id": "39-710-6660",
+    "StoreId": "106",
+    "ProductName": "Pepper",
+    "Price": 34
+  },
+  {
+    "Id": "83-230-3355",
+    "StoreId": "106",
+    "ProductName": "Cloth",
+    "Price": 171
+  },
+  {
+    "Id": "69-512-3639",
+    "StoreId": "106",
+    "ProductName": "Yogurt",
+    "Price": 478
+  },
+  {
+    "Id": "61-208-2521",
+    "StoreId": "107",
+    "ProductName": "Crab",
+    "Price": 15
+  },
+  {
+    "Id": "81-504-0573",
+    "StoreId": "107",
+    "ProductName": "Cup",
+    "Price": 205
+  },
+  {
+    "Id": "07-890-9816",
+    "StoreId": "107",
+    "ProductName": "Chicken",
+    "Price": 894
+  },
+  {
+    "Id": "47-814-0992",
+    "StoreId": "108",
+    "ProductName": "Liquor",
+    "Price": 921
+  },
+  {
+    "Id": "93-396-2249",
+    "StoreId": "108",
+    "ProductName": "Soup",
+    "Price": 670
+  },
+  {
+    "Id": "20-090-6247",
+    "StoreId": "108",
+    "ProductName": "Plate",
+    "Price": 539
+  },
+  {
+    "Id": "06-720-5572",
+    "StoreId": "109",
+    "ProductName": "Bread",
+    "Price": 783
+  },
+  {
+    "Id": "78-335-1326",
+    "StoreId": "109",
+    "ProductName": "Cake",
+    "Price": 701
+  },
+  {
+    "Id": "69-340-3196",
+    "StoreId": "109",
+    "ProductName": "Milk",
+    "Price": 244
+  },
+  {
+    "Id": "54-933-8396",
+    "StoreId": "110",
+    "ProductName": "Beef",
+    "Price": 12
+  },
+  {
+    "Id": "20-934-0860",
+    "StoreId": "110",
+    "ProductName": "Noodles",
+    "Price": 242
+  },
+  {
+    "Id": "27-873-4533",
+    "StoreId": "110",
+    "ProductName": "Onions",
+    "Price": 286
+  }
+]
